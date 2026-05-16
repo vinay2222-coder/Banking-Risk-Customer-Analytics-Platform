@@ -13,6 +13,24 @@ A complete end-to-end data analytics project simulating a real-world scenario at
   - Fraud Detection
 - **Power BI Dashboard**: A professional dark-themed dashboard with dynamic KPI cards, drill-through pages, and actionable business insights.
 
+## Visual Insights & Exploratory Data Analysis
+Uploading these visualizations makes your GitHub repository much more attractive to recruiters and technical reviewers. Here is a glimpse into the data:
+
+### Customer Demographics & Risk
+![Age Distribution](docs/eda_plots/age_distribution.png)
+![Risk Segment vs Default](docs/eda_plots/risk_segment_default.png)
+
+### Financial Patterns
+![Correlation Matrix](docs/eda_plots/correlation_matrix.png)
+![Credit Score vs Interest](docs/eda_plots/credit_score_vs_interest.png)
+
+### Churn & Fraud Analysis
+![Churn by Balance](docs/eda_plots/churn_by_balance.png)
+![Fraud by Transaction Count](docs/eda_plots/fraud_by_transaction_count.png)
+
+### Revenue Forecasting
+![Revenue Forecast](docs/eda_plots/revenue_forecast_trend.png)
+
 ## Tech Stack
 - **Languages**: Python, SQL
 - **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Faker
